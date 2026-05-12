@@ -154,6 +154,7 @@
 | [overreacted.io](https://overreacted.io/) 💎📝 | Dan Abramov | Gatsby | Blog | [🔓](https://github.com/gaearon/overreacted.io) |
 | [ped.ro](https://ped.ro/) 💎 | Pedro Duarte | Next.js | Minimal | ❌ |
 | [magicpattern.design](https://www.magicpattern.design/tools) 💎 | Jim Raptis | Next.js | Creative | ❌ |
+| [parish.cv](https://parish.cv/) ✨🌙 | Parish Khan | React, TypeScript, Vite | Creative (VS Code-inspired) | ❌ |
 
 ---
 
@@ -175,6 +176,7 @@
 | [jxnblk.com](https://jxnblk.com/) | Brent Jackson | Minimal | MDX | [🔓](https://github.com/jxnblk/blog) |
 | [mxstbr.com](https://mxstbr.com/) | Max Stoiber | Minimal | Blog | [🔓](https://github.com/mxstbr/mxstbr.com) |
 | [dan.church](https://dan.church/) | Dan Spratling | Creative | Agency | ❌ |
+| [parish.cv](https://parish.cv/) ✨🆕 | Parish Khan | Creative | VS Code-inspired interface, Dark theme | ❌ |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
