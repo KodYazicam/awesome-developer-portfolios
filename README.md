@@ -6,11 +6,11 @@
 <!-- MAIN BADGES -->
 <p>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"/></a>
-  <a href="https://github.com/Veleslobo/awesome-developer-portfolios/stargazers"><img src="https://img.shields.io/github/stars/Veleslobo/awesome-developer-portfolios?style=flat-square&logo=github&color=yellow" alt="Stars"/></a>
-  <a href="https://github.com/Veleslobo/awesome-developer-portfolios/network/members"><img src="https://img.shields.io/github/forks/Veleslobo/awesome-developer-portfolios?style=flat-square&logo=github&color=blue" alt="Forks"/></a>
-  <a href="https://github.com/Veleslobo/awesome-developer-portfolios/issues"><img src="https://img.shields.io/github/issues/Veleslobo/awesome-developer-portfolios?style=flat-square&logo=github&color=red" alt="Issues"/></a>
-  <a href="https://github.com/Veleslobo/awesome-developer-portfolios/pulls"><img src="https://img.shields.io/github/issues-pr/Veleslobo/awesome-developer-portfolios?style=flat-square&logo=github&color=green" alt="Pull Requests"/></a>
-  <a href="https://github.com/Veleslobo/awesome-developer-portfolios/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Veleslobo/awesome-developer-portfolios?style=flat-square&color=orange" alt="License"/></a>
+  <a href="https://github.com/KodYazicam/awesome-developer-portfolios/stargazers"><img src="https://img.shields.io/github/stars/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=yellow" alt="Stars"/></a>
+  <a href="https://github.com/KodYazicam/awesome-developer-portfolios/network/members"><img src="https://img.shields.io/github/forks/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=blue" alt="Forks"/></a>
+  <a href="https://github.com/KodYazicam/awesome-developer-portfolios/issues"><img src="https://img.shields.io/github/issues/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=red" alt="Issues"/></a>
+  <a href="https://github.com/KodYazicam/awesome-developer-portfolios/pulls"><img src="https://img.shields.io/github/issues-pr/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=green" alt="Pull Requests"/></a>
+  <a href="https://github.com/KodYazicam/awesome-developer-portfolios/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KodYazicam/awesome-developer-portfolios?style=flat-square&color=orange" alt="License"/></a>
 </p>
 
 <p>
@@ -633,10 +633,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-| [![Veleslobo](https://img.shields.io/badge/GitHub-Veleslobo-181717?style=for-the-badge&logo=github)](https://github.com/Veleslobo) | [![Instagram](https://img.shields.io/badge/Instagram-4veles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4veles) |
+| [![KodYazicam](https://img.shields.io/badge/GitHub-KodYazicam-181717?style=for-the-badge&logo=github)](https://github.com/KodYazicam) | [![Instagram](https://img.shields.io/badge/Instagram-4veles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4veles) |
 |:---:|:---:|
 
-**Created and maintained by [@Veleslobo](https://github.com/Veleslobo)**
+**Created and maintained by [@KodYazicam](https://github.com/KodYazicam)**
 
 </div>
 
@@ -646,12 +646,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this useful, please give it a star! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/Veleslobo/awesome-developer-portfolios?style=social)](https://github.com/Veleslobo/awesome-developer-portfolios)
-[![GitHub followers](https://img.shields.io/github/followers/Veleslobo?style=social)](https://github.com/Veleslobo)
+[![GitHub stars](https://img.shields.io/github/stars/KodYazicam/awesome-developer-portfolios?style=social)](https://github.com/KodYazicam/awesome-developer-portfolios)
+[![GitHub followers](https://img.shields.io/github/followers/KodYazicam?style=social)](https://github.com/KodYazicam)
 
-<a href="https://github.com/Veleslobo/awesome-developer-portfolios/issues">Report Bug</a> •
-<a href="https://github.com/Veleslobo/awesome-developer-portfolios/issues">Request Feature</a> •
-<a href="https://github.com/Veleslobo/awesome-developer-portfolios/pulls">Submit Portfolio</a>
+<a href="https://github.com/KodYazicam/awesome-developer-portfolios/issues">Report Bug</a> •
+<a href="https://github.com/KodYazicam/awesome-developer-portfolios/issues">Request Feature</a> •
+<a href="https://github.com/KodYazicam/awesome-developer-portfolios/pulls">Submit Portfolio</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=100&section=footer" width="100%"/>
 

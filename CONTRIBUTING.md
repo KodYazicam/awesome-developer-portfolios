@@ -75,7 +75,7 @@ If you notice outdated information:
 
 Found a broken link?
 
-1. [Open an issue](https://github.com/Veleslobo/awesome-developer-portfolios/issues/new)
+1. [Open an issue](https://github.com/KodYazicam/awesome-developer-portfolios/issues/new)
 2. Include:
    - Developer name
    - Broken URL
@@ -209,7 +209,7 @@ All contributors are recognized in the following ways:
 Once your portfolio is added, you can use this badge:
 
 ```markdown
-[![Featured in Awesome Developer Portfolios](https://img.shields.io/badge/Featured%20in-Awesome%20Developer%20Portfolios-blueviolet)](https://github.com/Veleslobo/awesome-developer-portfolios)
+[![Featured in Awesome Developer Portfolios](https://img.shields.io/badge/Featured%20in-Awesome%20Developer%20Portfolios-blueviolet)](https://github.com/KodYazicam/awesome-developer-portfolios)
 ```
 
 ---
@@ -218,7 +218,7 @@ Once your portfolio is added, you can use this badge:
 
 Have questions about contributing?
 
-1. Check existing [issues](https://github.com/Veleslobo/awesome-developer-portfolios/issues)
+1. Check existing [issues](https://github.com/KodYazicam/awesome-developer-portfolios/issues)
 2. Open a new issue with the `question` label
 3. Join discussions in the Discussions tab
 
@@ -228,7 +228,7 @@ Have questions about contributing?
 
 <div align="center">
 
-| [![Veleslobo](https://img.shields.io/badge/GitHub-Veleslobo-181717?style=for-the-badge&logo=github)](https://github.com/Veleslobo) | [![Instagram](https://img.shields.io/badge/Instagram-4veles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4veles) |
+| [![KodYazicam](https://img.shields.io/badge/GitHub-KodYazicam-181717?style=for-the-badge&logo=github)](https://github.com/KodYazicam) | [![Instagram](https://img.shields.io/badge/Instagram-4veles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4veles) |
 |:---:|:---:|
 
 </div>
@@ -239,7 +239,7 @@ Have questions about contributing?
 
 **Thank you for helping make this resource awesome! 🙏**
 
-[![GitHub stars](https://img.shields.io/github/stars/Veleslobo/awesome-developer-portfolios?style=social)](https://github.com/Veleslobo/awesome-developer-portfolios)
-[![GitHub followers](https://img.shields.io/github/followers/Veleslobo?style=social)](https://github.com/Veleslobo)
+[![GitHub stars](https://img.shields.io/github/stars/KodYazicam/awesome-developer-portfolios?style=social)](https://github.com/KodYazicam/awesome-developer-portfolios)
+[![GitHub followers](https://img.shields.io/github/followers/KodYazicam?style=social)](https://github.com/KodYazicam)
 
 </div>
