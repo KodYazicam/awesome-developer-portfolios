@@ -10,7 +10,7 @@ jobs:
   lychee:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: node scripts/generate.mjs
       - name: Fail if unique table is stale
         run: git diff --exit-code README.md
