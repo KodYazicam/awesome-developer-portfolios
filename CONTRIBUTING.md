@@ -187,7 +187,7 @@ Brief description of why it's awesome
 
 ### Review Process
 
-1. **Automated Checks** - Link validation
+1. **Link check** — GitHub Action runs [lychee](https://github.com/lycheeverse/lychee) on README.md (advisory; it does not auto-merge)
 2. **Maintainer Review** - Quality check
 3. **Feedback** - You may be asked for changes
 4. **Merge** - Approved PRs are merged

@@ -5,7 +5,6 @@
 
 <!-- MAIN BADGES -->
 <p>
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"/></a>
   <a href="https://github.com/KodYazicam/awesome-developer-portfolios/stargazers"><img src="https://img.shields.io/github/stars/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=yellow" alt="Stars"/></a>
   <a href="https://github.com/KodYazicam/awesome-developer-portfolios/network/members"><img src="https://img.shields.io/github/forks/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=blue" alt="Forks"/></a>
   <a href="https://github.com/KodYazicam/awesome-developer-portfolios/issues"><img src="https://img.shields.io/github/issues/KodYazicam/awesome-developer-portfolios?style=flat-square&logo=github&color=red" alt="Issues"/></a>
@@ -15,16 +14,15 @@
 
 <p>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
-  <img src="https://img.shields.io/badge/Portfolios-300+-blueviolet?style=flat-square" alt="Portfolio Count"/>
-  <img src="https://img.shields.io/badge/Categories-15+-orange?style=flat-square" alt="Categories"/>
-  <img src="https://img.shields.io/badge/Open_Source-100+-success?style=flat-square" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Hand--picked_list-blueviolet?style=flat-square" alt="Hand-picked"/>
+  <img src="https://img.shields.io/badge/Not_an_official_awesome.re_list-lightgrey?style=flat-square" alt="Not awesome.re"/>
 </p>
 
 <!-- DESCRIPTION -->
 <h3>🚀 Best developer portfolio examples - React, Next.js, Vue, minimal, creative & interactive designs</h3>
 
 <p>
-  <sub>✨ Hand-picked • 📅 Updated weekly • 🌍 Community-driven • 💡 Inspiring designs</sub>
+  <sub>✨ Hand-picked compilation • 🌍 PRs welcome • 💡 Sites may appear in more than one category</sub>
 </p>
 
 <!-- QUICK NAVIGATION -->
@@ -45,14 +43,14 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Total_Portfolios-300+-blueviolet?style=for-the-badge&logo=folder" alt="Total Portfolios"/>
-<br/><strong>300+</strong>
-<br/><sub>Curated Portfolios</sub>
+<img src="https://img.shields.io/badge/Entries-hand--picked-blueviolet?style=for-the-badge&logo=folder" alt="Hand-picked"/>
+<br/><strong>curated</strong>
+<br/><sub>Same site may appear in several categories</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open_Source-100+-success?style=for-the-badge&logo=github" alt="Open Source"/>
-<br/><strong>100+</strong>
-<br/><sub>Open Source</sub>
+<img src="https://img.shields.io/badge/Open_Source-marked-success?style=for-the-badge&logo=github" alt="Open Source"/>
+<br/><strong>🔓</strong>
+<br/><sub>Where the GitHub link is verified</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Tech_Stacks-10+-blue?style=for-the-badge&logo=code" alt="Tech Stacks"/>
