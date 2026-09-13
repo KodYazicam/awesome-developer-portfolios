@@ -633,7 +633,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-| [![KodYazicam](https://img.shields.io/badge/GitHub-KodYazicam-181717?style=for-the-badge&logo=github)](https://github.com/KodYazicam) | [![Instagram](https://img.shields.io/badge/Instagram-4veles-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4veles) |
+| [![KodYazicam](https://img.shields.io/badge/GitHub-KodYazicam-181717?style=for-the-badge&logo=github)](https://github.com/KodYazicam) | [![Instagram](https://img.shields.io/badge/Instagram-kodyazicam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kodyazicam) |
 |:---:|:---:|
 
 **Created and maintained by [@KodYazicam](https://github.com/KodYazicam)**
