@@ -654,3 +654,126 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!-- UNIQUE:START -->
+## Unique sites (114)
+
+Same URL listed once. Categories above may repeat a site.
+
+| Site | Developer | Stack | Open source |
+| --- | --- | --- | :---: |
+| [98.js.org](https://98.js.org/) | 98.css | HTML | [🔓](https://github.com/jdan/98.css) |
+| [adityarao.dev](https://adityarao.dev/) | Aditya Rao | Minimal | ❌ |
+| [adriengervaix.com](https://adriengervaix.com/) | Adrien Gervaix | Three.js | ❌ |
+| [ahmadawais.com](https://ahmadawais.com/) | Ahmad Awais | Creative | ❌ |
+| [andybell.co.uk](https://andy-bell.co.uk/) | Andy Bell | HTML | [🔓](https://github.com/andy-piccalilli/andy-bell-2021-piccalilli-course) |
+| [angular.dev](https://angular.dev/) | Angular Team | Docs | [🔓](https://github.com/angular/angular) |
+| [anishde.dev](https://anishde.dev/) | Anish De | Minimal | [🔓](https://github.com/AnishDe12020/portfolio) |
+| [antfu.me](https://antfu.me/) | Anthony Fu | Vite, Vue | [🔓](https://github.com/antfu/antfu.me) |
+| [antfu.me](https://github.com/antfu/antfu.me) | Anthony Fu | 1k+ | ❌ |
+| [anuragsinghbam.com](https://www.anuragsinghbam.com/) | Anurag Singh | Creative | [🔓](https://github.com/anuragsinghbam/portfolio) |
+| [Astro Paper](https://github.com/satnaing/astro-paper) | Astro | Blog, SEO | ❌ |
+| [astro-paper.pages.dev](https://astro-paper.pages.dev/) | Sat Naing | Minimal | [🔓](https://github.com/satnaing/astro-paper) |
+| [astro.build](https://astro.build/) | Astro Team | Creative | [🔓](https://github.com/withastro/astro.build) |
+| [atinux.com](https://atinux.com/) | Sébastien Chopin | Minimal | [🔓](https://github.com/Atinux/atinux.com) |
+| [bchiang7/v4](https://github.com/bchiang7/v4) | Brittany Chiang | 7k+ | ❌ |
+| [bento.me](https://bento.me/) | Bento Team | Service | ❌ |
+| [bio.link](https://bio.link/) | Bio Link | Service | ❌ |
+| [blog.zhangwen.site](https://blog.zhangwen.site/) | Zhang Wen | Next.js | [🔓](https://github.com/zhangwen-site/blog) |
+| [braydoncoyer.dev](https://www.braydoncoyer.dev/) | Braydon Coyer | Creative | [🔓](https://github.com/braydoncoyer/braydoncoyer.dev) |
+| [brittanychiang.com](https://brittanychiang.com/) | Brittany Chiang | React, Gatsby | [🔓](https://github.com/bchiang7/v4) |
+| [bruno-simon.com](https://bruno-simon.com/) | Bruno Simon | Three.js | ❌ |
+| [cassie.codes](https://www.cassie.codes/) | Cassie Evans | Svelte | [🔓](https://github.com/cassieevans/cassie.codes) |
+| [cassie.codes](https://github.com/cassieevans/cassie.codes) | Cassie Evans | 200+ | ❌ |
+| [codebushi.com](https://codebushi.com/) | Shyam | Minimal | [🔓](https://github.com/colbyfayock/codebushi) |
+| [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | ❌ |
+| [Cruip](https://cruip.com/) | Various | From $69 | ❌ |
+| [dan.church](https://dan.church/) | Dan Spratling | Creative | ❌ |
+| [danabra.mov](https://danabra.mov/) | Dan Abramov | Next.js | ❌ |
+| [debbie.codes](https://debbie.codes/) | Debbie O'Brien | Minimal | [🔓](https://github.com/debs-obrien/debbie.codes) |
+| [delba.dev](https://delba.dev/) | Delba de Oliveira | Next.js | [🔓](https://github.com/delbaoliveira/website) |
+| [Dev Portfolio](https://github.com/RyanFitzgerald/devportfolio) | HTML/CSS | Simple | ❌ |
+| [developer-portfolio](https://github.com/alsiam/developer-portfolio) | Al Siam | 2k+ | ❌ |
+| [dustinbrett.com](https://dustinbrett.com/) | Dustin Brett | React | [🔓](https://github.com/DustinBrett/daedalOS) |
+| [elian.codes](https://www.elian.codes/) | Elian Van Cutsem | Minimal | [🔓](https://github.com/ElianCodes/ElianCodes-frontend) |
+| [evanyou.me](https://evanyou.me/) | Evan You | Vue | ❌ |
+| [fantinel.dev](https://fantinel.dev/) | Matt Fantinel | Creative | [🔓](https://github.com/matfantinel/matfantinel.github.io) |
+| [felixvemmer.com](https://www.felixvemmer.com/) | Felix Vemmer | Minimal | [🔓](https://github.com/felixvemmer/felixvemmer.com) |
+| [florin-pop.com](https://www.florin-pop.com/) | Florin Pop | Creative | [🔓](https://github.com/florinpop17/florinpop.com) |
+| [geoffrich.net](https://geoffrich.net/) | Geoff Rich | Minimal | [🔓](https://github.com/geoffrich/geoffrich.net) |
+| [honghong.me](https://honghong.me/) | Hong | Minimal | [🔓](https://github.com/tszhong0411/honghong.me) |
+| [ibaslogic.com](https://ibaslogic.com/) | Ibas Majid | Minimal | [🔓](https://github.com/Ibaslogic/Ibaslogic) |
+| [jacekjeznach.com](https://jacekjeznach.com/) | Jacek Jeznach | Creative | ❌ |
+| [jahir.dev](https://jahir.dev/) | Jahir Fiquitiva | Next.js | [🔓](https://github.com/jahirfiquitiva/jahir.dev) |
+| [jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) | Jahir Fiquitiva | 300+ | ❌ |
+| [jaredpalmer.com](https://jaredpalmer.com/) | Jared Palmer | Minimal | ❌ |
+| [jason.af](https://www.jason.af/) | Jason Lengstorf | Creative | [🔓](https://github.com/jlengstorf/jason.af) |
+| [jhey.dev](https://jhey.dev/) | Jhey Tompkins | Astro | [🔓](https://github.com/jh3y/jhey.dev) |
+| [joshwcomeau.com](https://www.joshwcomeau.com/) | Josh W Comeau | Gatsby | ❌ |
+| [joyofcode.xyz](https://joyofcode.xyz/) | Matia | Minimal | [🔓](https://github.com/mattcroat/joy-of-code) |
+| [justinformentin.com](https://justinformentin.com/) | Justin Formentin | Minimal | [🔓](https://github.com/justinformentin/p) |
+| [jxnblk.com](https://jxnblk.com/) | Brent Jackson | Minimal | [🔓](https://github.com/jxnblk/blog) |
+| [kareljs.dev](https://www.kareljs.dev/) | Karel De Smet | Three.js | ❌ |
+| [kavinvalli.com](https://kavinvalli.com/) | Kavin Valli | Minimal | [🔓](https://github.com/kxvn-lx/website) |
+| [kentcdodds.com](https://kentcdodds.com/) | Kent C. Dodds | Creative | [🔓](https://github.com/kentcdodds/kentcdodds.com) |
+| [khromov.se](https://khromov.se/) | Stanislav Khromov | Minimal | [🔓](https://github.com/khromov/khromov-website) |
+| [krutiepatel.com](https://krutiepatel.com/) | Krutie Patel | Minimal | [🔓](https://github.com/Krutie/krutiepatel.com) |
+| [kuon.space](https://kuon.space/) | Kuon | Three.js | ❌ |
+| [lachlanmurphy.com](https://lachlanmurphy.com/) | Lachlan Murphy | React | ❌ |
+| [leerob.io](https://leerob.io/) | Lee Robinson | Next.js | [🔓](https://github.com/leerob/leerob.io) |
+| [leerob.io](https://github.com/leerob/leerob.io) | Lee Robinson | 6k+ | ❌ |
+| [lexingtonthemes.com](https://lexingtonthemes.com/) | Michael Andreuzza | Creative | ❌ |
+| [linuxbeast.com](https://linuxbeast.com/) | Linux Beast | Terminal | ❌ |
+| [m4tt72.com](https://m4tt72.com/) | Matt72 | React | [🔓](https://github.com/m4tt72/terminal) |
+| [magicpattern.design](https://www.magicpattern.design/tools) | Jim Raptis | Next.js | ❌ |
+| [manuelmoreale.com](https://manuelmoreale.com/) | Manuel Moreale | HTML | ❌ |
+| [marinaaisa.com](https://marinaaisa.com/) | Marina Aisa | Creative | [🔓](https://github.com/marinaaisa/marinaaisa-website-2021) |
+| [maximeheckel.com](https://maximeheckel.com/) | Maxime Heckel | Next.js | [🔓](https://github.com/MaximeHeckel/blog.maximeheckel.com) |
+| [melaniedaveid.com](https://www.melaniedaveid.com/) | Melanie David | Creative | ❌ |
+| [miguelpiedrafita.com](https://miguelpiedrafita.com/) | Miguel Piedrafita | Minimal | [🔓](https://github.com/m1guelpf/website) |
+| [Minimal Portfolio](https://github.com/chetanverma16/chetanverma-portfolio) | Next.js | Clean | ❌ |
+| [mxstbr.com](https://mxstbr.com/) | Max Stoiber | Minimal | [🔓](https://github.com/mxstbr/mxstbr.com) |
+| [nasan.dev](https://nasan.dev/) | Nasan | React | ❌ |
+| [nikolovlazar.com](https://nikolovlazar.com/) | Lazar Nikolov | Creative | [🔓](https://github.com/nikolovlazar/nikolovlazar.com) |
+| [olaolu.dev](https://olaolu.dev/) | Olaolu Olawuyi | Creative | [🔓](https://github.com/whizkydee/olaolu.dev) |
+| [onur.dev](https://onur.dev/) | Onur Şuyalçınkaya | Minimal | [🔓](https://github.com/suyalcinkaya/onur.dev) |
+| [overreacted.io](https://overreacted.io/) | Dan Abramov | Gatsby | [🔓](https://github.com/gaearon/overreacted.io) |
+| [overreacted.io](https://github.com/gaearon/overreacted.io) | Dan Abramov | 7k+ | ❌ |
+| [paco.me](https://paco.me/) | Paco Coursey | Next.js | ❌ |
+| [parish.cv](https://parish.cv/) | Parish Khan | React, TypeScript, Vite | ❌ |
+| [paularmstrong.dev](https://paularmstrong.dev/) | Paul Armstrong | Minimal | [🔓](https://github.com/paularmstrong/paularmstrong.dev) |
+| [ped.ro](https://ped.ro/) | Pedro Duarte | Next.js | ❌ |
+| [poolsuite.net](https://poolsuite.net/) | Poolsuite | HTML | ❌ |
+| [Portfolio Starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) | Next.js | TypeScript | ❌ |
+| [ramswaroop.me](https://ramswaroop.me/) | Ram Swaroop | Creative | [🔓](https://github.com/ramswaroop/ramswaroop.me) |
+| [rauno.me](https://rauno.me/) | Rauno Freiberg | Next.js | ❌ |
+| [read.cv](https://read.cv/) | Read CV | Service | ❌ |
+| [renatopozzi.me](https://renatopozzi.me/) | Renato Pozzi | Creative | [🔓](https://github.com/renatopozzi/renatopozzi.me) |
+| [robinwieruch.de](https://www.robinwieruch.de/) | Robin Wieruch | Minimal | [🔓](https://github.com/rwieruch/blog_robinwieruch_content) |
+| [robsterlini.co.uk](https://robsterlini.co.uk/) | Rob Sterlini | Three.js | ❌ |
+| [rsms.me](https://rsms.me/) | Rasmus Andersson | HTML | [🔓](https://github.com/rsms/rsms.me) |
+| [samuelkraft.com](https://samuelkraft.com/) | Samuel Kraft | Next.js | [🔓](https://github.com/samuelkraft/samuelkraft-next) |
+| [sarah.dev](https://sarah.dev/) | Sarah Drasner | Creative | ❌ |
+| [sarahdayan.dev](https://www.sarahdayan.dev/) | Sarah Dayan | Minimal | ❌ |
+| [satnaing.dev](https://satnaing.dev/) | Sat Naing | Astro | [🔓](https://github.com/satnaing/satnaing.dev) |
+| [satnaing.dev](https://github.com/satnaing/satnaing.dev) | Sat Naing | 500+ | ❌ |
+| [satnaing.dev/terminal](https://satnaing.dev/terminal/) | Sat Naing | React | [🔓](https://github.com/satnaing/terminal-portfolio) |
+| [scottspence.com](https://scottspence.com/) | Scott Spence | Minimal | [🔓](https://github.com/spences10/scottspence.com) |
+| [simbleau.dev](https://simbleau.dev/) | Spencer Imbleau | Minimal | [🔓](https://github.com/simbleau/simbleau.dev) |
+| [simone.computer](https://simone.computer/) | Simone | HTML | [🔓](https://github.com/simonecorsi/simonecorsi.github.io) |
+| [Simplefolio](https://github.com/cobiwave/simplefolio) | HTML | Minimal | ❌ |
+| [sj.land](https://sj.land/) | Steven Tey | Next.js | ❌ |
+| [Starter Portfolio](https://github.com/rammcodes/Starter-Portfolio) | HTML | Basic | ❌ |
+| [Starter Templates](https://starter-templates.com/) | Next.js | From $29 | ❌ |
+| [stephenfluin.com](https://stephenfluin.com/) | Stephen Fluin | Minimal | [🔓](https://github.com/AliAllaf/portfolio) |
+| [sznm.dev](https://sznm.dev/) | Agustinus Nathaniel | Minimal | [🔓](https://github.com/sozonome/sznm.dev) |
+| [taniarascia.com](https://www.taniarascia.com/) | Tania Rascia | Minimal | [🔓](https://github.com/taniarascia/taniarascia.com) |
+| [term.ooo](https://term.ooo/) | Marc Bouchenoire | React | ❌ |
+| [Terminal Portfolio](https://github.com/satnaing/terminal-portfolio) | React | Terminal | ❌ |
+| [theodorusclarence.com](https://theodorusclarence.com/) | Theodorus Clarence | Next.js | [🔓](https://github.com/theodorusclarence/theodorusclarence.com) |
+| [theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) | Theodorus Clarence | 500+ | ❌ |
+| [trentwalton.com](https://trentwalton.com/) | Trent Walton | HTML | ❌ |
+| [wesbos.com](https://wesbos.com/) | Wes Bos | Creative | [🔓](https://github.com/wesbos/wesbos) |
+| [zenorocha.com](https://zenorocha.com/) | Zeno Rocha | Next.js | [🔓](https://github.com/zenorocha/zenorocha.com) |
+| [zenorocha.com](https://github.com/zenorocha/zenorocha.com) | Zeno Rocha | 300+ | ❌ |
+<!-- UNIQUE:END -->

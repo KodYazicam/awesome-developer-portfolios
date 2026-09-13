@@ -187,7 +187,8 @@ Brief description of why it's awesome
 
 ### Review Process
 
-1. **Link check** — GitHub Action runs [lychee](https://github.com/lycheeverse/lychee) on README.md (advisory; it does not auto-merge)
+1. Add the site to `data/portfolios.yml` (one row per unique URL). Run `node scripts/generate.mjs` so the unique table at the bottom of README.md stays in sync.
+2. **Link check** — GitHub Action runs the generator (fails if README is stale) then [lychee](https://github.com/lycheeverse/lychee) on README.md (advisory; it does not auto-merge)
 2. **Maintainer Review** - Quality check
 3. **Feedback** - You may be asked for changes
 4. **Merge** - Approved PRs are merged

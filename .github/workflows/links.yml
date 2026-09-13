@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: node scripts/generate.mjs
+      - name: Fail if unique table is stale
+        run: git diff --exit-code README.md
       - uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress --max-concurrency 4 README.md CONTRIBUTING.md
