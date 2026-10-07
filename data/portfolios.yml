@@ -760,3 +760,10 @@
   stack: "From $29"
   style: "[Visit](https://starter-templates.com/)"
   openSource: false
+- url: "https://sulayman-bowles.dev/"
+  name: "sulayman-bowles.dev"
+  developer: "Sulayman Bowles"
+  stack: "React, TypeScript, Vite, Three.js"
+  style: "3D / monochrome"
+  github: "https://github.com/SulaymanB2024/Portfolio_Site"
+  openSource: true
