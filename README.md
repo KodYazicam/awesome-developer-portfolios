@@ -358,6 +358,7 @@
 | [kareljs.dev](https://www.kareljs.dev/) | Karel De Smet | Three.js | Interactive | ❌ |
 | [adriengervaix.com](https://adriengervaix.com/) | Adrien Gervaix | Three.js | Creative | ❌ |
 | [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | Tutorials | ❌ |
+| [sulayman-bowles.dev](https://sulayman-bowles.dev/) | Sulayman Bowles | React, TypeScript, Vite, Three.js | Interactive helmet, essays | [🔓](https://github.com/SulaymanB2024/Portfolio_Site) |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
@@ -656,7 +657,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 <!-- UNIQUE:START -->
-## Unique sites (114)
+## Unique sites (115)
 
 Same URL listed once. Categories above may repeat a site.
 
@@ -766,6 +767,7 @@ Same URL listed once. Categories above may repeat a site.
 | [Starter Portfolio](https://github.com/rammcodes/Starter-Portfolio) | HTML | Basic | ❌ |
 | [Starter Templates](https://starter-templates.com/) | Next.js | From $29 | ❌ |
 | [stephenfluin.com](https://stephenfluin.com/) | Stephen Fluin | Minimal | [🔓](https://github.com/AliAllaf/portfolio) |
+| [sulayman-bowles.dev](https://sulayman-bowles.dev/) | Sulayman Bowles | React, TypeScript, Vite, Three.js | [🔓](https://github.com/SulaymanB2024/Portfolio_Site) |
 | [sznm.dev](https://sznm.dev/) | Agustinus Nathaniel | Minimal | [🔓](https://github.com/sozonome/sznm.dev) |
 | [taniarascia.com](https://www.taniarascia.com/) | Tania Rascia | Minimal | [🔓](https://github.com/taniarascia/taniarascia.com) |
 | [term.ooo](https://term.ooo/) | Marc Bouchenoire | React | ❌ |
