@@ -1,0 +1,50 @@
+name: Suggest a portfolio
+description: Propose a portfolio, category, or documentation improvement.
+title: "[suggestion] "
+labels: ["enhancement", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer a pull request for a single portfolio entry. Use this issue for
+        category changes or when you are unsure where an entry belongs.
+
+  - type: input
+    id: url
+    attributes:
+      label: Portfolio URL
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be included?
+      description: What makes it useful as a reference? Note the stack and design style.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best category
+      options:
+        - React
+        - Next.js
+        - Vue.js
+        - Minimal
+        - Creative / interactive
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched the README and existing issues first.
+          required: true
+        - label: The site is a developer portfolio, not a product landing page.
+          required: true

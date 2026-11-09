@@ -1,0 +1,55 @@
+name: Broken or unsafe link
+description: Report a portfolio entry that is dead, redirected, or unsafe.
+title: "[link] "
+labels: ["bug", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the list accurate. For phishing or malware, use
+        the private security link instead of a public issue.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry name
+      placeholder: "e.g. Jane Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL in the list
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - Dead link (404, DNS failure)
+        - Redirects to an unrelated site
+        - Phishing or malware
+        - Wrong attribution or duplicate entry
+        - Site no longer a portfolio
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What did you see? Screenshots are helpful but optional.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked the current README for the same entry.
+          required: true
+        - label: This is not an active phishing or malware report (those go through SECURITY.md).
+          required: true
