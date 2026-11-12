@@ -175,7 +175,7 @@
 | [mxstbr.com](https://mxstbr.com/) | Max Stoiber | Minimal | Blog | [🔓](https://github.com/mxstbr/mxstbr.com) |
 | [dan.church](https://dan.church/) | Dan Spratling | Creative | Agency | ❌ |
 | [parish.cv](https://parish.cv/) ✨🆕 | Parish Khan | Creative | VS Code-inspired interface, Dark theme | ❌ |
-| [praritsidana.com](https://praritsidana.com/) | Prarit Sidana | Dark theme | Blog, project case studies | [🔓](https://github.com/prarit0097/Prarit-Portfolio) |
+| [praritsidana.com](https://praritsidana.com/) | Prarit Sidana | Dark theme | Blog, project case studies | ❌ |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
@@ -747,7 +747,7 @@ Same URL listed once. Categories above may repeat a site.
 | [ped.ro](https://ped.ro/) | Pedro Duarte | Next.js | ❌ |
 | [poolsuite.net](https://poolsuite.net/) | Poolsuite | HTML | ❌ |
 | [Portfolio Starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) | Next.js | TypeScript | ❌ |
-| [praritsidana.com](https://praritsidana.com/) | Prarit Sidana | React, TypeScript, Tailwind CSS, Vite | [🔓](https://github.com/prarit0097/Prarit-Portfolio) |
+| [praritsidana.com](https://praritsidana.com/) | Prarit Sidana | React, TypeScript, Tailwind CSS, Vite | ❌ |
 | [ramswaroop.me](https://ramswaroop.me/) | Ram Swaroop | Creative | [🔓](https://github.com/ramswaroop/ramswaroop.me) |
 | [rauno.me](https://rauno.me/) | Rauno Freiberg | Next.js | ❌ |
 | [read.cv](https://read.cv/) | Read CV | Service | ❌ |
