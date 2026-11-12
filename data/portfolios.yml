@@ -772,5 +772,4 @@
   developer: Prarit Sidana
   stack: React, TypeScript, Tailwind CSS, Vite
   style: Dark theme
-  github: https://github.com/prarit0097/Prarit-Portfolio
-  openSource: true
+  openSource: false
