@@ -767,3 +767,10 @@
   style: "3D / monochrome"
   github: "https://github.com/SulaymanB2024/Portfolio_Site"
   openSource: true
+- url: "https://chill-astro.github.io/"
+  name: "chill-astro.github.io"
+  developer: "Chill-Astro Software"
+  stack: "HTML, CSS, Vanilla JS"
+  style: "Modern"
+  github: "https://github.com/Chill-Astro/chill-astro.github.io"
+  openSource: true
