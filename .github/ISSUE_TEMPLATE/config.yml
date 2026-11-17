@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/KodYazicam/awesome-developer-portfolios/discussions
+    about: Ask a question or suggest a broader change before opening an issue.
+  - name: Security report
+    url: https://github.com/KodYazicam/awesome-developer-portfolios/security/policy
+    about: Report phishing, malware, or an unsafe entry privately.

@@ -32,7 +32,7 @@
 
 ## 📜 Code of Conduct
 
-By participating in this project, you agree to:
+This project follows the [Contributor Covenant](./CODE_OF_CONDUCT.md). By participating, you agree to:
 
 - 🤝 Be respectful and considerate
 - 💬 Use welcoming and inclusive language
@@ -80,6 +80,8 @@ Found a broken link?
    - Developer name
    - Broken URL
    - New URL (if known)
+
+For phishing or malware, do not open a public issue. Follow [SECURITY.md](./SECURITY.md).
 
 ---
 
