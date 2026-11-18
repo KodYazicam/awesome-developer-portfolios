@@ -360,6 +360,7 @@
 | [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | Tutorials | ❌ |
 | [sulayman-bowles.dev](https://sulayman-bowles.dev/) | Sulayman Bowles | React, TypeScript, Vite, Three.js | Interactive helmet, essays | [🔓](https://github.com/SulaymanB2024/Portfolio_Site) |
 
+| [lovelyfriendly.com](https://lovelyfriendly.com/) | Oleg Vishnevsky | HTML, CSS, JavaScript, WebGL | Particle portrait | [🔓](https://github.com/vishnevskyoleg/portfolio-site) |
 **[⬆ Back to Top](#-table-of-contents)**
 
 ---
@@ -657,7 +658,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 <!-- UNIQUE:START -->
-## Unique sites (115)
+## Unique sites (117)
 
 Same URL listed once. Categories above may repeat a site.
 
@@ -686,6 +687,7 @@ Same URL listed once. Categories above may repeat a site.
 | [bruno-simon.com](https://bruno-simon.com/) | Bruno Simon | Three.js | ❌ |
 | [cassie.codes](https://www.cassie.codes/) | Cassie Evans | Svelte | [🔓](https://github.com/cassieevans/cassie.codes) |
 | [cassie.codes](https://github.com/cassieevans/cassie.codes) | Cassie Evans | 200+ | ❌ |
+| [chill-astro.github.io](https://chill-astro.github.io/) | Chill-Astro Software | HTML, CSS, Vanilla JS | [🔓](https://github.com/Chill-Astro/chill-astro.github.io) |
 | [codebushi.com](https://codebushi.com/) | Shyam | Minimal | [🔓](https://github.com/colbyfayock/codebushi) |
 | [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | ❌ |
 | [Cruip](https://cruip.com/) | Various | From $69 | ❌ |
@@ -725,6 +727,7 @@ Same URL listed once. Categories above may repeat a site.
 | [leerob.io](https://github.com/leerob/leerob.io) | Lee Robinson | 6k+ | ❌ |
 | [lexingtonthemes.com](https://lexingtonthemes.com/) | Michael Andreuzza | Creative | ❌ |
 | [linuxbeast.com](https://linuxbeast.com/) | Linux Beast | Terminal | ❌ |
+| [lovelyfriendly.com](https://lovelyfriendly.com/) | Oleg Vishnevsky | HTML, CSS, JavaScript, WebGL | [🔓](https://github.com/vishnevskyoleg/portfolio-site) |
 | [m4tt72.com](https://m4tt72.com/) | Matt72 | React | [🔓](https://github.com/m4tt72/terminal) |
 | [magicpattern.design](https://www.magicpattern.design/tools) | Jim Raptis | Next.js | ❌ |
 | [manuelmoreale.com](https://manuelmoreale.com/) | Manuel Moreale | HTML | ❌ |
