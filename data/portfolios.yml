@@ -774,3 +774,10 @@
   style: "Modern"
   github: "https://github.com/Chill-Astro/chill-astro.github.io"
   openSource: true
+- url: "https://falakgala.dev/"
+  name: "falakgala.dev"
+  developer: "Falak Gala"
+  stack: "Next.js"
+  style: "Minimal"
+  github: "https://github.com/FALAK097/personal-site"
+  openSource: true
