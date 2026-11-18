@@ -774,3 +774,10 @@
   style: "Modern"
   github: "https://github.com/Chill-Astro/chill-astro.github.io"
   openSource: true
+- url: "https://lovelyfriendly.com/"
+  name: "lovelyfriendly.com"
+  developer: "Oleg Vishnevsky"
+  stack: "HTML, CSS, JavaScript, WebGL"
+  style: "Interactive"
+  github: "https://github.com/vishnevskyoleg/portfolio-site"
+  openSource: true
