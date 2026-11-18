@@ -199,6 +199,7 @@
 | [felixvemmer.com](https://www.felixvemmer.com/) | Felix Vemmer | Minimal | Blog | [🔓](https://github.com/felixvemmer/felixvemmer.com) |
 | [braydoncoyer.dev](https://www.braydoncoyer.dev/) | Braydon Coyer | Creative | Blog | [🔓](https://github.com/braydoncoyer/braydoncoyer.dev) |
 | [kavinvalli.com](https://kavinvalli.com/) | Kavin Valli | Minimal | Blog | [🔓](https://github.com/kxvn-lx/website) |
+| [falakgala.dev](https://falakgala.dev/) | Falak Gala | Minimal | Blog, Projects, AI | [🔓](https://github.com/FALAK097/personal-site) |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
@@ -657,7 +658,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 <!-- UNIQUE:START -->
-## Unique sites (115)
+## Unique sites (117)
 
 Same URL listed once. Categories above may repeat a site.
 
@@ -686,6 +687,7 @@ Same URL listed once. Categories above may repeat a site.
 | [bruno-simon.com](https://bruno-simon.com/) | Bruno Simon | Three.js | ❌ |
 | [cassie.codes](https://www.cassie.codes/) | Cassie Evans | Svelte | [🔓](https://github.com/cassieevans/cassie.codes) |
 | [cassie.codes](https://github.com/cassieevans/cassie.codes) | Cassie Evans | 200+ | ❌ |
+| [chill-astro.github.io](https://chill-astro.github.io/) | Chill-Astro Software | HTML, CSS, Vanilla JS | [🔓](https://github.com/Chill-Astro/chill-astro.github.io) |
 | [codebushi.com](https://codebushi.com/) | Shyam | Minimal | [🔓](https://github.com/colbyfayock/codebushi) |
 | [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | ❌ |
 | [Cruip](https://cruip.com/) | Various | From $69 | ❌ |
@@ -698,6 +700,7 @@ Same URL listed once. Categories above may repeat a site.
 | [dustinbrett.com](https://dustinbrett.com/) | Dustin Brett | React | [🔓](https://github.com/DustinBrett/daedalOS) |
 | [elian.codes](https://www.elian.codes/) | Elian Van Cutsem | Minimal | [🔓](https://github.com/ElianCodes/ElianCodes-frontend) |
 | [evanyou.me](https://evanyou.me/) | Evan You | Vue | ❌ |
+| [falakgala.dev](https://falakgala.dev/) | Falak Gala | Next.js | [🔓](https://github.com/FALAK097/personal-site) |
 | [fantinel.dev](https://fantinel.dev/) | Matt Fantinel | Creative | [🔓](https://github.com/matfantinel/matfantinel.github.io) |
 | [felixvemmer.com](https://www.felixvemmer.com/) | Felix Vemmer | Minimal | [🔓](https://github.com/felixvemmer/felixvemmer.com) |
 | [florin-pop.com](https://www.florin-pop.com/) | Florin Pop | Creative | [🔓](https://github.com/florinpop17/florinpop.com) |
