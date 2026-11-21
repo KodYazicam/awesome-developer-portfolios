@@ -359,6 +359,7 @@
 | [adriengervaix.com](https://adriengervaix.com/) | Adrien Gervaix | Three.js | Creative | ❌ |
 | [codrops.com](https://tympanus.net/codrops/) | Codrops | Various | Tutorials | ❌ |
 | [sulayman-bowles.dev](https://sulayman-bowles.dev/) | Sulayman Bowles | React, TypeScript, Vite, Three.js | Interactive helmet, essays | [🔓](https://github.com/SulaymanB2024/Portfolio_Site) |
+| [alihaiderdev.netlify.app](https://alihaiderdev.netlify.app/) | Ali Haider | Three.js | Particle hero, 3D project sliders | ❌ |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
@@ -657,7 +658,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 <!-- UNIQUE:START -->
-## Unique sites (115)
+## Unique sites (116)
 
 Same URL listed once. Categories above may repeat a site.
 
@@ -667,6 +668,7 @@ Same URL listed once. Categories above may repeat a site.
 | [adityarao.dev](https://adityarao.dev/) | Aditya Rao | Minimal | ❌ |
 | [adriengervaix.com](https://adriengervaix.com/) | Adrien Gervaix | Three.js | ❌ |
 | [ahmadawais.com](https://ahmadawais.com/) | Ahmad Awais | Creative | ❌ |
+| [Ali Haider](https://alihaiderdev.netlify.app/) | Ali Haider | Three.js | ❌ |
 | [andybell.co.uk](https://andy-bell.co.uk/) | Andy Bell | HTML | [🔓](https://github.com/andy-piccalilli/andy-bell-2021-piccalilli-course) |
 | [angular.dev](https://angular.dev/) | Angular Team | Docs | [🔓](https://github.com/angular/angular) |
 | [anishde.dev](https://anishde.dev/) | Anish De | Minimal | [🔓](https://github.com/AnishDe12020/portfolio) |
