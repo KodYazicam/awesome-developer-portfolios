@@ -774,3 +774,10 @@
   style: "Modern"
   github: "https://github.com/Chill-Astro/chill-astro.github.io"
   openSource: true
+
+- url: "https://alihaiderdev.netlify.app/"
+  name: "Ali Haider"
+  developer: "Ali Haider"
+  stack: "Three.js"
+  style: "Dark"
+  openSource: false
