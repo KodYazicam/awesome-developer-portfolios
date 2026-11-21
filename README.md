@@ -377,6 +377,7 @@
 | [delba.dev](https://delba.dev/) | Delba de Oliveira | Next.js | [🔓](https://github.com/delbaoliveira/website) |
 | [zenorocha.com](https://zenorocha.com/) | Zeno Rocha | Next.js | [🔓](https://github.com/zenorocha/zenorocha.com) |
 | [cassie.codes](https://www.cassie.codes/) | Cassie Evans | Svelte | [🔓](https://github.com/cassieevans/cassie.codes) |
+| [alihaiderdev.netlify.app](https://alihaiderdev.netlify.app/) | Ali Haider | Three.js | ❌ |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
@@ -469,6 +470,7 @@
 | [maximeheckel.com](https://maximeheckel.com/) | Maxime Heckel | Next.js | Framer, R3F | [🔓](https://github.com/MaximeHeckel/blog.maximeheckel.com) |
 | [olaolu.dev](https://olaolu.dev/) | Olaolu Olawuyi | HTML | GSAP | [🔓](https://github.com/whizkydee/olaolu.dev) |
 | [anuragsinghbam.com](https://www.anuragsinghbam.com/) | Anurag Singh | Next.js | Framer Motion | [🔓](https://github.com/anuragsinghbam/portfolio) |
+| [alihaiderdev.netlify.app](https://alihaiderdev.netlify.app/) | Ali Haider | Three.js | Three.js | ❌ |
 
 **[⬆ Back to Top](#-table-of-contents)**
 
